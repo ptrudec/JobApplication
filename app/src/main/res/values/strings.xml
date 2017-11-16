@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JobApplication</string>
+
+    <!-- Hints -->
+    <string name="username_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="message_hint">Enter message</string>
+
+    <!-- Buttons -->
+    <string name="login_button">Login</string>
+    <string name="send_button">Send</string>
+
+</resources>
